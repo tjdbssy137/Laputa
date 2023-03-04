@@ -10,7 +10,6 @@
 ```
 
 - 곰은 Player가 근접거리에 오지 않을 경우 지정 좌표로 이동.
-<img src = https://https://user-images.githubusercontent.com/65931605/222873794-53eb4adf-2919-440a-a378-ed1ce146e01c.gif height=140 width=220>
   - 일정 거리 밖에 있을 경우 피를 채우고, 곰의 HP UI가 사라짐.
 - Directional Light의 회전 & Sky Box 변경으로 시간 흐름 연출.
 - 짚라인을 이용해 공중에 떠 있는 섬을 위아래로 이동할 수 있음.
@@ -18,6 +17,7 @@
 - 에셋 애니메이션을 적극 사용.
 
 ```
+<img src = https://https://user-images.githubusercontent.com/65931605/222873794-53eb4adf-2919-440a-a378-ed1ce146e01c.gif height=140 width=220>
 
 ---
 
