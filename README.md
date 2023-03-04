@@ -29,4 +29,4 @@
 ---
 
 ## :movie_camera:게임 영상
-[![Video Label](https://user-images.githubusercontent.com/65931605/222871777-29215397-5b43-47c7-b211-3604225c5d33.jpg height=240 width=360)](https://youtu.be/KieYOLSpDjI)
+[![Video Label](https://user-images.githubusercontent.com/65931605/222871777-29215397-5b43-47c7-b211-3604225c5d33.jpg)](https://youtu.be/KieYOLSpDjI)
