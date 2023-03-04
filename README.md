@@ -23,7 +23,6 @@
 ---
 
 ## :mag_right:게임 조작법
-#### 게임 조작
    + ADSW(이동), Shift(달리기), Space(점프), Mouse(공격), Mouse Wheel(줌인아웃), F(공격회피)
    + R : Restart, Q : 게임 조작법 설명창
    
