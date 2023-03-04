@@ -1,4 +1,4 @@
-# :video_game:Laputa
+# :palm_tree:Laputa
 #캐주얼 #전략 #생존 #모험 #간단한게임
 
 #### 과일만 먹으며 살아온 하늘섬 원주민이 곰과 싸워 고기를 얻는 게임.
@@ -17,7 +17,7 @@
 - 에셋 애니메이션을 적극 사용.
 
 ```
-### 곰 이동 경로
+### :bear:곰 이동 경로
 <img src = https://user-images.githubusercontent.com/65931605/222873794-53eb4adf-2919-440a-a378-ed1ce146e01c.gif height=140 width=220>
 
 ---
